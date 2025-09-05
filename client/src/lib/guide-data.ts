@@ -100,6 +100,85 @@ export const guideData: GuideSection[] = [
     ]
   },
   {
+    id: "camera-settings",
+    title: "Camera Settings",
+    icon: "cog",
+    color: "settings-accent",
+    steps: [],
+    subsections: [
+      {
+        id: "daytime-settings",
+        title: "Daytime Settings & Filters",
+        icon: "sun",
+        color: "settings-accent",
+        steps: [
+          {
+            id: "daytime-aperture",
+            title: "Aperture: f/4 or f/5.6",
+            description: "Use f/4 or f/5.6 for daytime shooting",
+            type: "checklist"
+          },
+          {
+            id: "daytime-iso",
+            title: "ISO: 200",
+            description: "Set ISO to 200 for bright conditions",
+            type: "checklist"
+          },
+          {
+            id: "frame-rate",
+            title: "Frame Rate: 4K @ 60fps",
+            description: "Record in 4K at 60fps for slow-motion flexibility",
+            type: "checklist"
+          },
+          {
+            id: "white-balance-day",
+            title: "White Balance: 5400K-5600K (Sunny) / 4800K-5000K (Afternoon)",
+            description: "Adjust white balance based on lighting conditions",
+            type: "checklist"
+          },
+          {
+            id: "filter-setup",
+            title: "Filter Setup",
+            description: "Use 72mm to 77mm step-up ring. Attach ND filter first, then CPL filter on front. Always adjust CPL before each shot - Do NOT adjust ND filter.",
+            type: "warning"
+          }
+        ]
+      },
+      {
+        id: "night-settings",
+        title: "Low Light / Night Settings",
+        icon: "moon",
+        color: "settings-accent",
+        steps: [
+          {
+            id: "remove-filters",
+            title: "Remove All Filters",
+            description: "Remove all ND and CPL filters from the lens",
+            type: "warning"
+          },
+          {
+            id: "night-aperture",
+            title: "Aperture: f/1.4 or f/1.8",
+            description: "Set aperture to f/1.4 or f/1.8 for maximum light intake",
+            type: "checklist"
+          },
+          {
+            id: "night-iso",
+            title: "ISO: Max 1800",
+            description: "Set ISO to maximum 1800, adjust as needed for brightness",
+            type: "checklist"
+          },
+          {
+            id: "white-balance-night",
+            title: "White Balance: 3400K-3600K (Warm) / 4800K-5000K (White)",
+            description: "Adjust based on streetlight type",
+            type: "checklist"
+          }
+        ]
+      }
+    ]
+  },
+  {
     id: "exterior-shots",
     title: "Exterior Profile Shots",
     icon: "car",
@@ -298,73 +377,6 @@ export const guideData: GuideSection[] = [
             title: "From Driver Side",
             description: "Wide shot showing both front seats and steering wheel",
             type: "checklist"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    id: "camera-settings",
-    title: "Camera Settings",
-    icon: "cog",
-    color: "settings-accent",
-    steps: [],
-    subsections: [
-      {
-        id: "daytime-settings",
-        title: "Daytime Settings & Filters",
-        icon: "sun",
-        color: "settings-accent",
-        steps: [
-          {
-            id: "daytime-aperture",
-            title: "Aperture: f/4 or f/5.6",
-            description: "Use f/4 or f/5.6 for daytime shooting",
-            type: "step"
-          },
-          {
-            id: "daytime-iso",
-            title: "ISO: 200",
-            description: "Set ISO to 200 for bright conditions",
-            type: "step"
-          },
-          {
-            id: "frame-rate",
-            title: "Frame Rate: 4K @ 60fps",
-            description: "Record in 4K at 60fps for slow-motion flexibility",
-            type: "step"
-          },
-          {
-            id: "filter-setup",
-            title: "Filter Setup",
-            description: "Use 72mm to 77mm step-up ring. Attach ND filter first, then CPL filter on front. Always adjust CPL before each shot - Do NOT adjust ND filter.",
-            type: "warning"
-          }
-        ]
-      },
-      {
-        id: "night-settings",
-        title: "Low Light / Night Settings",
-        icon: "moon",
-        color: "settings-accent",
-        steps: [
-          {
-            id: "remove-filters",
-            title: "Remove All Filters",
-            description: "Remove all ND and CPL filters from the lens",
-            type: "warning"
-          },
-          {
-            id: "night-aperture",
-            title: "Aperture: f/1.4 or f/1.8",
-            description: "Set aperture to f/1.4 or f/1.8 for maximum light intake",
-            type: "step"
-          },
-          {
-            id: "night-iso",
-            title: "ISO: Max 1800",
-            description: "Set ISO to maximum 1800, adjust as needed for brightness",
-            type: "step"
           }
         ]
       }
