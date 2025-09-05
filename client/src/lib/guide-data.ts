@@ -30,6 +30,76 @@ export const guideData: GuideSection[] = [
     ]
   },
   {
+    id: "equipment",
+    title: "Equipment Notes",
+    icon: "tools",
+    color: "text-muted-foreground",
+    steps: [
+      {
+        id: "main-lens",
+        title: "Main Lens: Sigma 18-35mm f/1.8",
+        description: "Best lens for this type of shoot with GH5 camera",
+        type: "step"
+      },
+      {
+        id: "close-up-lens",
+        title: "Close-Up Lens: 50mm",
+        description: "For extra close-up shots. Remember to re-stabilize gimbal after changing lenses",
+        type: "step"
+      },
+      {
+        id: "vignetting-fix",
+        title: "18mm Vignetting Fix",
+        description: "At 18mm, you may see black circular shadows. Zoom to around 20mm to eliminate vignetting",
+        type: "warning"
+      },
+      {
+        id: "gimbal-battery",
+        title: "Gimbal Battery Warning",
+        description: "One of the gimbal batteries is broken - be careful during initial setup",
+        type: "warning"
+      },
+      {
+        id: "gimbal-mode",
+        title: "Gimbal Mode: Pan Follow",
+        description: "Use Pan Follow mode for all shots. Avoid standard Follow Mode as it follows all axes and can cause unwanted shaking",
+        type: "step"
+      }
+    ]
+  },
+  {
+    id: "techniques",
+    title: "Focus Techniques",
+    icon: "video",
+    color: "text-muted-foreground",
+    steps: [
+      {
+        id: "identify-midpoint",
+        title: "Identify Midpoint",
+        description: "Find the center point of your planned pan where the car will be perfectly framed",
+        type: "step"
+      },
+      {
+        id: "set-focus",
+        title: "Set Focus",
+        description: "Manually set camera focus on the car at this midpoint position",
+        type: "step"
+      },
+      {
+        id: "start-and-pan",
+        title: "Start and Pan",
+        description: "Return to starting position, begin recording, and execute the pan",
+        type: "step"
+      },
+      {
+        id: "focus-technique-tip",
+        title: "Why This Works",
+        description: "The car gradually comes into perfect focus during the pan and stays sharp as you pass through center and continue to the end. This prevents out-of-focus footage in the most important part of the shot.",
+        type: "tip"
+      }
+    ]
+  },
+  {
     id: "exterior-shots",
     title: "Exterior Profile Shots",
     icon: "car",
@@ -297,76 +367,6 @@ export const guideData: GuideSection[] = [
             type: "step"
           }
         ]
-      }
-    ]
-  },
-  {
-    id: "equipment",
-    title: "Equipment Notes",
-    icon: "tools",
-    color: "text-muted-foreground",
-    steps: [
-      {
-        id: "main-lens",
-        title: "Main Lens: Sigma 18-35mm f/1.8",
-        description: "Best lens for this type of shoot with GH5 camera",
-        type: "step"
-      },
-      {
-        id: "close-up-lens",
-        title: "Close-Up Lens: 50mm",
-        description: "For extra close-up shots. Remember to re-stabilize gimbal after changing lenses",
-        type: "step"
-      },
-      {
-        id: "vignetting-fix",
-        title: "18mm Vignetting Fix",
-        description: "At 18mm, you may see black circular shadows. Zoom to around 20mm to eliminate vignetting",
-        type: "warning"
-      },
-      {
-        id: "gimbal-battery",
-        title: "Gimbal Battery Warning",
-        description: "One of the gimbal batteries is broken - be careful during initial setup",
-        type: "warning"
-      },
-      {
-        id: "gimbal-mode",
-        title: "Gimbal Mode: Pan Follow",
-        description: "Use Pan Follow mode for all shots. Avoid standard Follow Mode as it follows all axes and can cause unwanted shaking",
-        type: "step"
-      }
-    ]
-  },
-  {
-    id: "techniques",
-    title: "Focus Techniques",
-    icon: "video",
-    color: "text-muted-foreground",
-    steps: [
-      {
-        id: "identify-midpoint",
-        title: "Identify Midpoint",
-        description: "Find the center point of your planned pan where the car will be perfectly framed",
-        type: "step"
-      },
-      {
-        id: "set-focus",
-        title: "Set Focus",
-        description: "Manually set camera focus on the car at this midpoint position",
-        type: "step"
-      },
-      {
-        id: "start-and-pan",
-        title: "Start and Pan",
-        description: "Return to starting position, begin recording, and execute the pan",
-        type: "step"
-      },
-      {
-        id: "focus-technique-tip",
-        title: "Why This Works",
-        description: "The car gradually comes into perfect focus during the pan and stays sharp as you pass through center and continue to the end. This prevents out-of-focus footage in the most important part of the shot.",
-        type: "tip"
       }
     ]
   }
