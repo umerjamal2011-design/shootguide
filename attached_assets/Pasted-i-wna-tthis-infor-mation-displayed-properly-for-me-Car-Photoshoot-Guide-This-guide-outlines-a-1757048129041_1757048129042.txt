@@ -1,0 +1,66 @@
+i wna tthis infor mation displayed properly for me "🔴 (Car Photoshoot Guide)
+This guide outlines a step-by-step process for a comprehensive car photoshoot, covering exterior and interior shots with specific techniques for camera movement and focusing.
+Exterior Profile Shots (Sides, Front, and Back)
+For all exterior profile shots—including the left and right sides, front, and back of the car—follow a consistent technique:
+Start Wide: Begin with a wide-angle shot of the car.
+Pan In: While recording, slowly and steadily walk or move in towards the car.
+Maintain Stability: Ensure your steps are smooth and stable to avoid shaky footage. The goal is a steady, professional pan.
+Repeat: Follow this same process for the left side profile, the right side profile, the back profile, and the front profile.
+45-Degree Angle Shots
+After capturing the main profiles, take 45-degree angle shots from all four corners of the car. These shots are crucial for two reasons:
+Composition: They blend the profile and front/back views.
+Background Evaluation: Their primary purpose is to help you check the background and lighting.
+Use these shots to identify the best side of the car to feature based on the quality of the background, sun position, and overall aesthetic.
+"Hero" Shots
+For the most impactful or "hero" shots, select the best angles you identified and capture them using two different lens settings:
+Wide Angle: First, capture the shot with a wide lens to show the car in its environment.
+Zoomed In: Next, from the exact same position and angle, zoom in on the car to create a more focused and detailed "hero" shot. This captures the best angles from two perspectives.
+Equipment Notes
+Main Lens: Use the Sigma 18-35mm f/1.8 lens with your GH5 camera. This is considered one of the best lenses for this type of shoot.
+Close-Up Lens: For extra close-up shots, use a 50mm lens. Remember to re-stabilize your gimbal after changing lenses.
+Gimbal:
+Initial Setup: Be careful with the gimbal as one of the batteries is broken.
+Wobble Issue: If your gimbal (🔴 likely a Zhiyun Crane v1 Edge) wobbles even after you auto-tune it, you will need to adjust the motor settings.
+Adjusting Motor Settings: Go into the settings. First, try the medium mode. If the wobbling doesn't stop, change the setting to low.
+Gimbal Modes: Your gimbal has several modes: POV, Follow, Pan Follow, and Lock. For this shoot, you should take all your shots in Pan Follow mode. Avoid using the standard "Follow Mode" as it follows all axes and can lead to unwanted shaking.
+Interior & Detail Shots
+Close-up shots are used to highlight specific features of the car, both on the exterior and interior.
+Exterior Details:
+Brake Calipers: The part of a disc brake system that holds the brake pads and applies pressure to the rotor to stop the wheel.
+Electric Charging Port / Fuel Door: This is the small door on the side of the car that covers the charging port (for electric cars) or the gas cap.
+Badges: The emblems or logos of the car's make, model, or trim level (e.g., the Porsche emblem, the "911" badge).
+Interior Details:
+Gear Shifter: The lever or button used to change gears.
+Speed Ramps: Your teacher mentioned you will not be using "speed ramps" for this shoot because the car will be static and the video will be slow. A speed ramp is a video editing technique where the footage's speed is quickly changed from slow to fast or vice versa.
+Other Details: Take shots of any beautiful or exclusive interior features, such as the upholstery (especially if it's leather), stitching, dashboard, monograms, and the car's name. In a Porsche, a close-up of the watch in the center console is a good example. You also need a close-up of the speedometer.
+Lens & Framing Instructions:
+18mm Lens Issue: The teacher mentioned that when using your 18-35mm lens at its full wide angle (18mm), you might see a black, circular shadow on the sides of the frame. This effect is known as vignetting. To fix this, simply zoom the lens in slightly to around 20mm, which will eliminate the vignetting.
+Wide Interior Shots: After the detail shots, take wide-angle shots of the interior.
+Frame the shot to show both front seats and the steering wheel.
+Take these shots from the passenger side and the driver's side to get a complete view of the interior.
+Daytime Camera Settings & Filters
+When shooting during the day, use these settings and filters to control light and reduce reflections:
+Camera & Settings: Use a GH5 camera with an aperture of f/4 or f/5.6 and an ISO of 200.
+Frame Rate: All daytime shots should be recorded in 4K at 60 frames per second (fps). This high frame rate provides flexibility in post-production, allowing you to create smooth slow-motion effects to stabilize any minor camera shake.
+White Balance:
+For a bright, sunny day, set your white balance to 5400K or 5600K.
+For afternoon or sunset, set it to 4800K to 5000K.
+Filters: Use a combination of a CPL (Circular Polarizer) filter and an ND (Neutral Density) filter. Your CPL filter is 77mm. The "anti filter" mentioned is likely an ND filter, which is essential for shooting video in bright daylight with a wide aperture like f/4.
+Filter Stack: Your 18-36mm lens has a 72mm filter thread. To attach your larger 77mm filters, you will need a 72mm to 77mm step-up ring. The notes mention 🔴"82 to 77" and "88 to 77" step-down rings, but given your equipment (a 72mm lens), the correct part is a step-up ring. You should attach the ND filter first, then screw the CPL filter onto the front of it.
+Pre-Shot Check: Before each shot, you must adjust the CPL filter to eliminate🔴unwanted reflections and ensure the overall exposure is perfect. Do not adjust the ND filter.
+Low Light / Night Shots
+For low-light or night shooting, you will need to adjust your setup to capture enough light:
+Filters: Remove all ND and CPL filters from the lens.
+Aperture: Set your aperture to a wide setting of f/1.4 or f/1.8. This is a personal preference; you will need to check which setting works best for the specific shot.
+ISO: Set your ISO to a maximum of 1800. You can increase the ISO further if needed to achieve the required brightness for the shot.
+White Balance:
+If the streetlights are warm yellow, keep the white balance between 3400K to 3600K.
+If the streetlights are white, set the white balance to 4800K to 5000K.
+Key Focusing Technique for Panning
+This specific technique is designed to ensure your car remains perfectly sharp and in focus during a panning shot. Do not focus at the start of your shot. Instead, follow these steps:
+Identify Midpoint: Before you start recording, find the center point of your planned pan. This is the spot where the car will be perfectly framed and at its best.
+Set Focus: Manually set your camera's focus on the car at this midpoint.
+Start and Pan: Go back to your starting position, begin recording, and execute the pan towards the endpoint.
+By focusing on the midpoint, the car will gradually come into perfect focus during the pan and stay sharp as you pass through the center and continue to the end. This prevents the car from being out of focus in the most important part of the shot.
+"
+that is both intutiave and dynamic etc
