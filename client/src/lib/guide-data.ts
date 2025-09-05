@@ -137,10 +137,42 @@ export const guideData: GuideSection[] = [
             type: "checklist"
           },
           {
-            id: "filter-setup",
-            title: "Filter Setup",
-            description: "Use 72mm to 77mm step-up ring. Attach ND filter first, then CPL filter on front. Always adjust CPL before each shot - Do NOT adjust ND filter.",
+            id: "filter-order",
+            title: "Filter Order: CPL → ND",
+            description: "IMPORTANT: First attach CPL filter to lens, then attach ND filter on top of CPL",
             type: "warning"
+          },
+          {
+            id: "filter-adjustment",
+            title: "Filter Adjustment",
+            description: "You can adjust ND filter for each shot if required for exposure correction. Use 72mm to 77mm step-up ring.",
+            type: "tip"
+          }
+        ]
+      },
+      {
+        id: "afternoon-settings",
+        title: "Afternoon Settings & Adjustments",
+        icon: "sun",
+        color: "settings-accent",
+        steps: [
+          {
+            id: "afternoon-exposure-priority",
+            title: "Exposure Adjustment Priority",
+            description: "In afternoon light, adjust aperture first for exposure correction. Try NOT to increase ISO unless necessary.",
+            type: "tip"
+          },
+          {
+            id: "afternoon-aperture-adjust",
+            title: "Aperture Adjustment",
+            description: "Adjust aperture according to available light. If still too dark after aperture adjustment, then adjust ISO.",
+            type: "step"
+          },
+          {
+            id: "afternoon-filter-setup",
+            title: "Afternoon Filter Setup",
+            description: "First attach CPL, then ND on lens. You can adjust ND for each shot if required for exposure correction.",
+            type: "checklist"
           }
         ]
       },
@@ -328,6 +360,12 @@ export const guideData: GuideSection[] = [
         icon: "couch",
         color: "interior-accent",
         steps: [
+          {
+            id: "interior-filter-removal",
+            title: "Remove ND Filter for Interior",
+            description: "For interior shots, remove ND filter because it's most probably dark inside the car. Keep CPL if needed for reflections.",
+            type: "warning"
+          },
           {
             id: "gear-shifter",
             title: "Gear Shifter",
